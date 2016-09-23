@@ -1,0 +1,16 @@
+.foot {
+	background-color: rgb(75,75,75);
+}
+a:link {
+	color: rgb(200,200,200);
+	font-family: 'Amaranth',sans-serif;
+	font-size: 1.2em;
+}
+a:hover {
+	color: rgb(75,75,75);
+	font-family: 'Amaranth',sans-serif;
+	font-size: 1.2em;
+}
+.head {
+	padding: 30px;
+}
